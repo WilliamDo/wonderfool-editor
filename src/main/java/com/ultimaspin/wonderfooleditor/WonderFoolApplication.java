@@ -1,4 +1,4 @@
-package com.example.wonderfooleditor;
+package com.ultimaspin.wonderfooleditor;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

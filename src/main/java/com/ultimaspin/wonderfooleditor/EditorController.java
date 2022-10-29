@@ -1,4 +1,4 @@
-package com.example.wonderfooleditor;
+package com.ultimaspin.wonderfooleditor;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.TextArea;

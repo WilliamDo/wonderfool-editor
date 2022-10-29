@@ -1,4 +1,4 @@
-module com.example.wonderfooleditor {
+module com.ultimaspin.wonderfooleditor {
     requires javafx.controls;
     requires javafx.fxml;
 
@@ -7,6 +7,6 @@ module com.example.wonderfooleditor {
     requires org.kordamp.ikonli.javafx;
     requires org.kordamp.bootstrapfx.core;
 
-    opens com.example.wonderfooleditor to javafx.fxml;
-    exports com.example.wonderfooleditor;
+    opens com.ultimaspin.wonderfooleditor to javafx.fxml;
+    exports com.ultimaspin.wonderfooleditor;
 }
