@@ -6,7 +6,7 @@ import javafx.scene.control.TextFormatter;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
-public class HelloController {
+public class EditorController {
 
     private static final String REPEATED_TEXT = "I am a fool. ";
     private static final AtomicInteger COUNTER = new AtomicInteger(0);
